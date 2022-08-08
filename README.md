@@ -3,8 +3,8 @@ Built using HTML5, CSS3, CSS Queries and JavaScript.
 This is a 24 hrs format clock. It also displays date and day.
 You can also set alarm and timer. You can also use stopwatch.
 
-Project link:[Clock App](https://kishorbalgi.github.io/Clock/)
-Repository link:[Clock App Repo](https://github.com/KishorBalgi/Clock)
+Project link:[Clock App](https://github.com/Saikiran-Anandas/Clock/)
+Repository link:[Clock App Repo](https://github.com/Saikiran-Anandas/Clock/)
 
 Author: Saikiran Anandas
 #### Snaps
