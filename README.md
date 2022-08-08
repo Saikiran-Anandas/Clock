@@ -6,7 +6,7 @@ You can also set alarm and timer. You can also use stopwatch.
 Project link:[Clock App](https://kishorbalgi.github.io/Clock/)
 Repository link:[Clock App Repo](https://github.com/KishorBalgi/Clock)
 
-Author: Kishor M Balgi
+Author: Saikiran Anandas
 #### Snaps
 ![image](https://user-images.githubusercontent.com/75678927/152204975-66ec142e-68cf-4225-8c06-27df67148719.png)
 ![image](https://user-images.githubusercontent.com/75678927/152205853-bf457361-63bd-4f14-b6ea-c2ee1ee146e4.png)
